@@ -1,11 +1,13 @@
-import logo from "../assets/raviKumarLogo.webp"
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa"
+import logo from "../assets/HarshaLogo.webp"
+import { FaSquareXTwitter } from "react-icons/fa6"
 const Navbar = () => {
     return (
         <nav className="flex items-center justify-between py-6">
-            <div className ="flex flex-shrink-0 items-center">
+            <div className = "flex flex-shrink-0 items-center">
                 <a href="/" aria-label="Home">
                     <img src={logo} className="mx-2" width={50} height={33}
-                    alt="Logo" />             
+                    alt="logo" />             
                 </a>
             </div>
             
@@ -28,7 +30,7 @@ const Navbar = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Instagram">
-                        <FaInsta />
+                        <FaInstagram />
                 </a>
                 <a href="https://github.com/HarshaJamedar"
                     target="_blank"
