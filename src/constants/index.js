@@ -52,15 +52,15 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Trading Platform for Cryptocurrency",
     image: project1,
     url: "https://github.com/HarshaJamedar/TitanPaymentSystem",
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional trading platform for cryptocurrency to provide real-time market data and trade insights for users and also AI-assisted chatbot for your crypto trading strategy",
+    technologies: ["Java","SpringBoot","React.js","Node.js","Javascript","RazorpayAPI","GeminiAI"],
   },
   {
-    title: "Task Management App",
+    title: "Autonomous multi node drone networking system",
     image: project2,
     url: "https://github.com/HarshaJamedar/XTDrone",
     description:
@@ -76,12 +76,12 @@ export const PROJECTS = [
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "React", "Framer Motion"],
   },
   {
-    title: "Blogging Platform",
+    title: "DevSync",
     image: project4,
     url: "https://github.com/HarshaJamedar/DevOps-Projects",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A seamless DevOps integration project focused on streamlining the deployment and automation pipeline for web applications using major DevOps tools.",
+    technologies: ["DevOps", "Github", "Docker", "Kubernetes", "Jenkins", "Ansible", "Terraform", "Jira"],
   },
 ];
 
