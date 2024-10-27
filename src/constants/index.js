@@ -15,7 +15,7 @@ export const EXPERIENCES = [
   {
     year: "AUG 2024 - Present",
     role: "Software Developer Engineer",
-    company: "Bright Mind Enrichment",
+    company: "Bright Mind Enrichment - Volunteer",
     description: `Team player in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with Cassandra NOSQL database. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Typescript", "Javascript", "React.js", "Next.js", "Cassandra"],
   },
