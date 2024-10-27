@@ -21,10 +21,10 @@ export const EXPERIENCES = [
   },
   {
     year: "DEC 2022 - MAY 2024",
-    role: "Research Graduate",
+    role: "Student Teaching Assistant",
     company: "California State university Fullerton",
-    description: `Developed an autonomous drone motion planning system integrating LiDAR SLAM and YOLO-based computer vision for enhanced navigation and obstacle detection as part of my research project`,
-    technologies: ["ROS", "C++", "Python", "CUDA", "Shell", "ComputerVision", "YOLOV8", "LiDAR", "VSLAM"],
+    description: `As a teaching assistant, I assisted students in learning current topics and developed real-world projects like APIs, databases, web applications, Machine Learning, Generative AI, and Cloud concepts .`,
+    technologies: ["Microservices","frontend","Backend","Databases","MachineLearning","NLP","OpenAI","CloudComputing","WebDevelopment"],
   },
   {
     year: "JAN 2020 - MAR 2022",
