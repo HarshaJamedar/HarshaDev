@@ -86,7 +86,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Current Residence: 719 S 850 W AMERICAN FORk, UTAH, USA - 84003 ",
+  address: "Current Residence: Fremont, Bay Area, CA", 
   phoneNo: "+1 (385)-392-3839",
   email: "harshavardhanjemedar@gmail.com",
 };
