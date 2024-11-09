@@ -1,6 +1,7 @@
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa"
 import logo from "../assets/HarshaLogo.webp"
 import { FaSquareXTwitter } from "react-icons/fa6"
+import { SiLeetcode } from "react-icons/si"
 const Navbar = () => {
     return (
         <nav className="flex items-center justify-between py-6">
@@ -26,12 +27,12 @@ const Navbar = () => {
                         <FaGithub />
                 </a>
 
-                {/* <a href="https://github.com/HarshaJamedar"
+                <a href="https://leetcode.com/u/harsha_jemedar/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Instagram">
-                        <FaInstagram />
-                </a> */}
+                    aria-label="Leetcode">
+                        <SiLeetcode />
+                </a>
                 <a href="https://x.com/Harsha090898"
                     target="_blank"
                     rel="noopener noreferrer"
