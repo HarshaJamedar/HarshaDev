@@ -62,7 +62,7 @@ export const PROJECTS = [
   {
     title: "Autonomous multi node drone networking system",
     image: project2,
-    url: "https://github.com/HarshaJamedar/XTDrone",
+    url: "https://github.com/HarshaJamedar/XTDrone/blob/master/README.en.md",
     description:
       "Developed an autonomous drone motion planning system integrating LiDAR SLAM and YOLO-based computer vision for enhanced navigation and obstacle detection as part of my research project",
     technologies: ["ROS", "C++", "Python", "CUDA", "Shell", "ComputerVision", "YOLOV8", "LiDAR", "VSLAM"],
